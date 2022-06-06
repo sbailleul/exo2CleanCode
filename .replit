@@ -1,4 +1,4 @@
-run = "dotnet run --project src/FoodPricer/FoodPricer.csproj  -- \"assiette\" \"couscous\" \"coca\" \"moyen\" \"baba\" \"normal\" \"yes\""
+run = "./runsample.sh"
 entrypoint = ".lesson/instructions.md"
 
 hidden = ["bin", "obj","**/bin","**/obj"]

@@ -1,0 +1,1 @@
+dotnet test test/FoodPricer.Tests/FoodPricer.Tests.csproj

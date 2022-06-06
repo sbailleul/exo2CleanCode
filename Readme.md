@@ -1,4 +1,3 @@
-
 ## About
 This application is used by a restaurant to calculate the price of the orders of its clients.
 It works (mostly) and has lots of comments which is good, right ?
@@ -12,4 +11,6 @@ This means that you need to bring structure to this actual code, create tests, s
 
 ## Tips
 
-Have a look at [Help](help.md) file to see some tips about csharp and this exercise
+- Have a look at [Lesson Help](.lesson/help.md) file to see some tips about csharp and this exercise
+- use [test.sh](./test.sh) to run the actual tests with a very simple golden master
+- run a working sample of the app with [runsample.sh](./runsample.sh)
