@@ -1,0 +1,1 @@
+The objective of this module is to think about the importance of the structure of a program
