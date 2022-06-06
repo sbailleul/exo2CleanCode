@@ -24,4 +24,4 @@ Independently of the language and it's technical constraints, code needs strucur
 
 You start working on this kata with Replit:
 
-[![Run on Repl.it](https://repl.it/badge/github/rhwy/Kata-Refactoring-FoodPricer)](https://repl.it/github/rhwy/Kata-Refactoring-FoodPricer)
+[Run on Replit](https://replit.com/github/rhwy/Kata-Refactoring-FoodPricer)
