@@ -1,7 +1,7 @@
 run = "dotnet run --project src/FoodPricer/FoodPricer.csproj  -- \"assiette\" \"couscous\" \"coca\" \"moyen\" \"baba\" \"normal\" \"yes\""
-entrypoint = "src/FoodPricer/Program.cs"
+entrypoint = ".lesson/instructions.md"
 
-hidden = ["bin", "obj"]
+hidden = ["bin", "obj","**/bin","**/obj"]
 
 [env]
 DOTNET_NOLOGO = "1"

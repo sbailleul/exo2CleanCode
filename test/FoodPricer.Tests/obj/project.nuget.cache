@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "i8a6/q+VQ0U4cjQF6YJqPl+LkPFx/b7H1+QJAim0LW61j1RCv6JCHY3+EpgSceN6iS006mAOjY50UgAc/NKM/w==",
+  "dgSpecHash": "wWzFGAjbjBTSPMBsCgz/Ur03czyibSQW0actxKLqFdNcjFVttKnOYvkxJryMw7WVzVdJ4AZWvydtqd/d982OJQ==",
   "success": true,
   "projectFilePath": "/home/runner/Exo1/test/FoodPricer.Tests/FoodPricer.Tests.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "/home/runner/.nuget/packages/microsoft.win32.primitives/4.3.0/microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "/home/runner/.nuget/packages/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg.sha512",
     "/home/runner/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/nfluent/2.8.0/nfluent.2.8.0.nupkg.sha512",
     "/home/runner/.nuget/packages/nuget.frameworks/5.0.0/nuget.frameworks.5.0.0.nupkg.sha512",
     "/home/runner/.nuget/packages/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/home/runner/.nuget/packages/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

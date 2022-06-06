@@ -425,6 +425,15 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {}
         }
       },
+      "NFluent/2.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NFluent.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NFluent.dll": {}
+        }
+      },
       "NuGet.Frameworks/5.0.0": {
         "type": "package",
         "compile": {
@@ -2466,6 +2475,39 @@
         "newtonsoft.json.9.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "tools/install.ps1"
+      ]
+    },
+    "NFluent/2.8.0": {
+      "sha512": "VyPs/yIywwO3nnK9wYSWe82FLywVXXZiB+a5DfFjlHi27eZQqZ5MsShoHBEyDRQfZDLMapp795v4SJYuCxyCjw==",
+      "type": "package",
+      "path": "nfluent/2.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/Icon.png",
+        "lib/net20/NFluent.dll",
+        "lib/net20/NFluent.pdb",
+        "lib/net20/NFluent.xml",
+        "lib/net30/NFluent.dll",
+        "lib/net30/NFluent.pdb",
+        "lib/net30/NFluent.xml",
+        "lib/net35/NFluent.XML",
+        "lib/net35/NFluent.dll",
+        "lib/net35/NFluent.pdb",
+        "lib/net40/NFluent.XML",
+        "lib/net40/NFluent.dll",
+        "lib/net40/NFluent.pdb",
+        "lib/net45/NFluent.dll",
+        "lib/net45/NFluent.pdb",
+        "lib/net45/NFluent.xml",
+        "lib/netstandard1.3/NFluent.dll",
+        "lib/netstandard1.3/NFluent.pdb",
+        "lib/netstandard1.3/NFluent.xml",
+        "lib/netstandard2.0/NFluent.dll",
+        "lib/netstandard2.0/NFluent.pdb",
+        "lib/netstandard2.0/NFluent.xml",
+        "nfluent.2.8.0.nupkg.sha512",
+        "nfluent.nuspec"
       ]
     },
     "NuGet.Frameworks/5.0.0": {
@@ -5984,6 +6026,7 @@
       "FoodPricer >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "coverlet.collector >= 3.1.0",
+      "nfluent >= 2.8.0",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
     ]
@@ -6038,6 +6081,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[3.1.0, )"
+          },
+          "nfluent": {
+            "target": "Package",
+            "version": "[2.8.0, )"
           },
           "xunit": {
             "target": "Package",
