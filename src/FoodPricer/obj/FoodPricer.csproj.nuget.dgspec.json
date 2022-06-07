@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/Exo1/src/FoodPricer/FoodPricer.csproj": {}
+    "/home/runner/Exo2-sachabailleul/src/FoodPricer/FoodPricer.csproj": {}
   },
   "projects": {
-    "/home/runner/Exo1/src/FoodPricer/FoodPricer.csproj": {
+    "/home/runner/Exo2-sachabailleul/src/FoodPricer/FoodPricer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/Exo1/src/FoodPricer/FoodPricer.csproj",
+        "projectUniqueName": "/home/runner/Exo2-sachabailleul/src/FoodPricer/FoodPricer.csproj",
         "projectName": "FoodPricer",
-        "projectPath": "/home/runner/Exo1/src/FoodPricer/FoodPricer.csproj",
+        "projectPath": "/home/runner/Exo2-sachabailleul/src/FoodPricer/FoodPricer.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/Exo1/src/FoodPricer/obj/",
+        "outputPath": "/home/runner/Exo2-sachabailleul/src/FoodPricer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
